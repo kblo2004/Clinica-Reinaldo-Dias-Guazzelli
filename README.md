@@ -32,3 +32,5 @@ LGPD / PRIVACIDADE
 - O formulário de agendamento pede confirmação de leitura do aviso.
 - O aviso é um modelo inicial: confirme os dados do controlador, fornecedores, base legal, retenção e medidas de segurança antes de publicar. O texto, isoladamente, não certifica conformidade legal ou técnica.
 - Não solicite dados clínicos detalhados pelo campo de observações. Restrinja os dados dos pacientes no Supabase por autenticação e políticas RLS adequadas.
+
+https://kblo2004.github.io/Clinica-Reinaldo-Dias-Guazzelli/
