@@ -1,3 +1,6 @@
+https://kblo2004.github.io/Clinica-Reinaldo-Dias-Guazzelli/
+
+
 [LEIA-ME.txt](https://github.com/user-attachments/files/33776402/LEIA-ME.txt)
 CLÍNICA — SITE HTML CORRIGIDO
 
